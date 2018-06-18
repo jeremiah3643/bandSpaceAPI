@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "bassman",
+      "first": "Jeremiah",
+      "last": "Pritchard",
+      "password": "091690a",
+      "email": "bassman@fake.com",
+      "location": "Nashville"
+    },
+    {
+      "first": "Jack",
+      "last": "Austin",
+      "email": "axeman@fake.com",
+      "password": "password",
+      "username": "axeman",
+      "location": "Nashville",
+      "id": 2
+    }
+  ]
+}
